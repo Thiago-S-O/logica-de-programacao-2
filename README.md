@@ -15,3 +15,4 @@
 ## comandos git
 - git remote add
 - git log (vê os commit)
+- git pull origin <nome-da-branch>
