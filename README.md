@@ -5,7 +5,7 @@
 <script src="https://code.responsivevoice.org/responsivevoice. js"></script>
 
 - Ele traz alguns códigos em Javascript para o projeto que possuem a capacidade de falar.
-- Através do 'responsiveVoice.speak(variaveDoTexto, 'Brazilian Portuguese Female', {rate: aqui vai a velocidade da vóz})' 
+- Através do 'responsiveVoice.speak(variaveDoTexto, `Brazilian Portuguese Female`, {rate: aqui vai a velocidade da vóz})' 
 
 ## utilização do vercel.com para fazer deploy da aplicação
 
@@ -19,7 +19,7 @@ Realizar alterações no código de um projeto e registrá-las com commits, util
 
 Visualizar quais arquivos foram modificados no repositório local, utilizando o comando git status;
 
-Listar os commits realizados no repositório, com dados do autor, data e mensagem de cada commit, utilizando o comando git log;
+Listar os commits realizados no repositório, com dados do autor, data e mensagem de cada commit, utilizando o comando git log, (para sair do comando `git log`, basta apertar a letra q);
 
 Visualizar os repositórios remotos linkados com o repositório local, utilizando o comando git remote;
 
