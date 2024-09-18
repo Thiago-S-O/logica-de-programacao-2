@@ -28,3 +28,9 @@ Enviar commits feitos no repositório local para o repositório remoto, utilizan
 Baixar commits do repositório remoto para o repositório local, utilizando o comando git pull;
 
 Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também como aceitar um convite de colaboração recebido.
+
+O comando git reset permite redefinir a posição da branch atual para um commit anterior, removendo os commits posteriores do histórico. `git reset --hard <id_do_commit_anterior>`;
+
+O comando git revert cria um novo commit que desfaz as mudanças introduzidas por um commit específico `git revert <id_do_commit>`;
+
+O comando git commit --amend -m "descrição do commit"é usado para fazer alterações no commit mais recente, como adicionar arquivos ou modificar mensagens de commit. `git commit --amend`;
