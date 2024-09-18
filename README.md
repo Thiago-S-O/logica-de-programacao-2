@@ -13,6 +13,18 @@
 - com o vercel é possível subir aplicações e acessa-las do celular ou outro dispositivo.
 
 ## comandos git
-- git remote add
-- git log (vê os commit)
-- git pull origin <nome-da-branch>
+Baixar uma cópia de um repositório hospedado no GitHub para o seu computador, utilizando o comando git clone;
+
+Realizar alterações no código de um projeto e registrá-las com commits, utilizando os comandos git add e git commit;
+
+Visualizar quais arquivos foram modificados no repositório local, utilizando o comando git status;
+
+Listar os commits realizados no repositório, com dados do autor, data e mensagem de cada commit, utilizando o comando git log;
+
+Visualizar os repositórios remotos linkados com o repositório local, utilizando o comando git remote;
+
+Enviar commits feitos no repositório local para o repositório remoto, utilizando o comando git push;
+
+Baixar commits do repositório remoto para o repositório local, utilizando o comando git pull;
+
+Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também como aceitar um convite de colaboração recebido.
