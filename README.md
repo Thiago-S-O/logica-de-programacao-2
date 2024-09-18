@@ -35,5 +35,9 @@ O comando git revert cria um novo commit que desfaz as mudanças introduzidas po
 
 O comando git commit --amend -m "descrição do commit"é usado para fazer alterações no commit mais recente, como adicionar arquivos ou modificar mensagens de commit. `git commit --amend`;
 
-# teste .gitignore
+## teste .gitignore
 - ignorando a pasta `login-test`, basta colocar o nome do arquivo ou pasta a ser ignoradae depois colocar uma `/`;
+- o site `https://www.toptal.com/developers/gitignore` cria um arquivo .gitignore no modelo da liguagem utilizada e como ignorar cada tipo de arquivo; 
+
+## new gist
+- compartilhar trexos de código através do `new gist`. Na  home do git, basta ir no (+, create new...) e clicar em new gist, depois só seguir o que é solicitado lá.
