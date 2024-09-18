@@ -9,4 +9,5 @@
 
 ## utilização do vercel.com para fazer deploy da aplicação
 
-- Utilizar uma aplicação chamada vercel.com. Ela aponta para um dos repositórios do GitHub e realiza um Deploy (desdobramento), que é justamente a ação de disponibilizar o projeto para as pessoas.
+- Utilizar uma aplicação chamada vercel.com. Ela aponta para um dos repositórios do GitHub e realiza um Deploy (desdobramento), que é justamente a ação de disponibilizar o projeto para as pessoas;
+- com o vercel é possível subir aplicações e acessa-las do celular ou outro dispositivo.
