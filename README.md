@@ -34,3 +34,6 @@ O comando git reset permite redefinir a posição da branch atual para um commit
 O comando git revert cria um novo commit que desfaz as mudanças introduzidas por um commit específico `git revert <id_do_commit>`;
 
 O comando git commit --amend -m "descrição do commit"é usado para fazer alterações no commit mais recente, como adicionar arquivos ou modificar mensagens de commit. `git commit --amend`;
+
+# teste .gitignore
+- ignorando a pasta `login-test`, basta colocar o nome do arquivo ou pasta a ser ignoradae depois colocar uma `/`;
